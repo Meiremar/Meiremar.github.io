@@ -8,7 +8,6 @@
 <body>
 
     <img src="foto.jpg" alt=""> 
-    <p>______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</p>
     <h1>Meiremar Silva Oliveira</h1> 
 Nacionalidade: Brasileira  <br>
 Natural de Uberaba                               
@@ -42,6 +41,6 @@ Conhecimento básico em linguagens: HTML, PHP, JAVA;  <br>
 · Comprometimento nas tarefas em mim destinada.
 · Aplicar todo meu conhecimento para contribuir efetivamente com a empresa <br>
 · Responsabilidade , proatividade, pontualidade e comunicação para auxilar em atividades cotidianas.
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 </body>
 </html>
